@@ -6,5 +6,5 @@ My background is databases (MSSQL, Postgres) and data engineering.
 
 My work has included:
 - Designing and building data pipelines
-- Developing CLI tools, backend microservices, frontend interfaces
+- Developing CLI tools, backend services, frontend interfaces
 - Migrating existing systems to Rust for performance and reliability
