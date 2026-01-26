@@ -1,8 +1,10 @@
 ## Sergey Zhukov
 
-I'm Senior Software Engineer with 10+ years of experience in data engineering, distributed architectures, and
-scalable high-performance database systems. Specializing in Rust, Python, Go, and cloud technologies. 
-My background is databases (MSSQL, Postgres) and data engineering. 
+Senior Software Engineer with 10+ years of experience in databases, data engineering, and distributed systems, 
+with a strong foundation in MS SQL Server and PostgreSQL and large-scale data processing using Python and Spark.
+
+Currently focused on Rust for building high-performance, reliable services, 
+with solid experience in Python, Go, and cloud-based environments.
 
 My work has included:
 - Designing and building data pipelines
