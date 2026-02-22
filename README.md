@@ -10,3 +10,8 @@ My work has included:
 - Designing and building data pipelines
 - Developing CLI tools, backend services, frontend interfaces
 - Migrating existing systems to Rust for performance and reliability
+
+## Open Source
+
+- **DataFusion**
+  https://github.com/apache/datafusion/pulls?q=author:cj-zhukov
