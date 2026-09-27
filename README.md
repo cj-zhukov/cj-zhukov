@@ -7,8 +7,9 @@ Currently focused on Rust for building high-performance, reliable services,
 with solid experience in Python, Go, and cloud-based environments.
 
 My work has included:
-- Designing and building data pipelines
-- Developing CLI tools, backend services, frontend interfaces
+- Designing and building data processing pipelines
+- Building reusable internal tools and libraries, including Rust-based components exposed through Python bindings
+- Developing backend services and frontend applications
 - Migrating existing systems to Rust for performance and reliability
 
 ## Open Source
