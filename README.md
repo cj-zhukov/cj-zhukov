@@ -1,10 +1,11 @@
 ## Sergey Zhukov
 
-Senior Software Engineer with 10+ years of experience in databases, data engineering, and distributed systems, 
-with a strong foundation in MS SQL Server and PostgreSQL and large-scale data processing using Python and Spark.
+Senior Software Engineer with 10+ years of experience in databases and data engineering, 
+with a strong background in relational and NoSQL databases (MS SQL Server, PostgreSQL, MongoDB) 
+and data processing with Python, Pandas, and Spark.
 
-Currently focused on Rust for building high-performance, reliable services, 
-with solid experience in Python, Go, and cloud-based environments.
+Currently focused on Rust and Python for building high-performance analytical data systems, 
+with hands-on experience in Apache Arrow and DataFusion.
 
 My work has included:
 - Designing and building data processing pipelines
