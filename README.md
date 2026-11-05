@@ -8,6 +8,7 @@ Currently focused on Rust and Python for building high-performance analytical da
 with hands-on experience in Apache Arrow and DataFusion.
 
 My work has included:
+- Maintaining and optimizing relational and NoSQL databases, including high availability, disaster recovery, performance tuning, and monitoring.
 - Designing and building data processing pipelines
 - Building reusable internal tools and libraries, including Rust-based components exposed through Python bindings
 - Developing backend services and frontend applications
